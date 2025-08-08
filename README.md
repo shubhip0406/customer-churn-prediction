@@ -78,5 +78,3 @@ Using data from a European bank with **10,000 customer records**, this project a
 - Wasted resources on **54 false positives**
 
 ---
-
-## 📂 Repository Structure
